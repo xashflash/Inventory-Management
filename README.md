@@ -162,7 +162,7 @@ This project demonstrates:
 
 Capstone Project - Hybrid Inventory Manager
 C Backend + C++ Frontend Solution
-By Vyankatesh Badar
+By Yash Gaikwad
 
 ## License
 
